@@ -1,5 +1,6 @@
 *.suo
 *.VC.db
+*.ipch
 g_for_Golf/g_for_golf/Content/StarterContent/
 g_for_Golf/g_for_golf/Binaries/
 g_for_Golf/g_for_golf/Build/
