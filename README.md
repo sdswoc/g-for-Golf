@@ -1,7 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # 3D-Golf
 This is a project under SDSLabs Winter of Code. 
 =======
+=======
+g for Golf
+>>>>>>> Updated README
 This is a 3D golf game developed* on Unreal Engine 4.18 with a twist.
 The gravity is controllable and not the ball.
 
