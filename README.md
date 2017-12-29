@@ -14,6 +14,7 @@ This is a 3D golf game developed* on Unreal Engine 4.18 with a twist.
 The gravity is controllable and not the ball.
 
 Get the game in Early Access at https://gamejolt.com/games/gforgolf/307491
+Give your feedback at https://goo.gl/forms/G4b2na21lePFNqqk1
 
 CONTROLS:
   WASD - Tilt gravity vector in the specified direction
