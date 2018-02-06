@@ -14,6 +14,14 @@
 		{
 			"Name": "CustomGravityPlugin",
 			"Enabled": true
+		},
+		{
+			"Name": "GoogleVRHMD",
+			"Enabled": true
+		},
+		{
+			"Name": "GoogleVRController",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
