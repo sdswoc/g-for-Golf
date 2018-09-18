@@ -12,7 +12,9 @@ Give your feedback at https://goo.gl/forms/G4b2na21lePFNqqk1
 ## Controls (non-VR/VR)
 
 WASD/Analog stick - Tilt gravity vector in the specified direction
+
 Space/Trigger - Flip gravity vector
+
 Shift/Pointer - Increase downwards gravity
   
 *This project was created under the SDS Winter of Code 2017 by Twarit Waikar under the mentorship of SDS members viz. Kriti Singh and Ketan Gupta.
