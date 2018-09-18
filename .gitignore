@@ -1,0 +1,10 @@
+*.suo
+*.VC.db
+g_for_Golf/g_for_golf/Content/StarterContent/
+g_for_Golf/g_for_golf/Binaries/
+g_for_Golf/g_for_golf/Build/
+g_for_Golf/g_for_golf/DerivedDataCache/
+g_for_Golf/g_for_golf/Intermediate/
+g_for_Golf/g_for_golf/Saved/
+g_for_Golf/g_for_golf/Plugins/
+bfg-1.12.16.jar
